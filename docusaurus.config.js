@@ -100,7 +100,7 @@ const config = {
             items: [
               {
                 label: 'Clase git',
-                to: '/docs/intro',
+                to: '/docs/F1/just_an_inchident',
               },
             ],
           },
